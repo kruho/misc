@@ -7,6 +7,14 @@
 - [style2paints（自動着色）](https://github.com/lllyasviel/style2paints)
 - [Colorize Photos（自動着色）](http://demos.algorithmia.com/colorize-photos/)
 - [LYREBIRD（自分の声の合成）](https://lyrebird.ai/)
+- [Grad-CAM（注視領域の可視化）](http://gradcam.cloudcv.org/)
+- [3D Face Reconstruction from a Single Image（顔画像から3Dモデル作成）](http://cvl-demos.cs.nott.ac.uk/vrn/)
+- [WaveNet（リアルな音声合成）](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+
+## YouTube
+- [YOLO v2（高速物体認識）](https://www.youtube.com/watch?v=VOC3huqHrss)
+- [Synthesizing Obama（音声から口パク生成）](https://www.youtube.com/watch?v=9Yq67CjDqvw)
+- [Google Pixel Buds Translate（ほんやくコンニャク）](https://www.youtube.com/watch?v=kWb1ysqtc4o)
 
 ## まとめ
 - [GAN-Papers](https://github.com/LynnHo/GAN-Papers)
