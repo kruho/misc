@@ -10,15 +10,62 @@
 - [Grad-CAM（注視領域の可視化）](http://gradcam.cloudcv.org/)
 - [3D Face Reconstruction from a Single Image（顔画像から3Dモデル作成）](http://cvl-demos.cs.nott.ac.uk/vrn/)
 - [WaveNet（リアルな音声合成）](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+- [pix2pix（線画からリアルな画像生成）](https://affinelayer.com/pixsrv/)
 
 ## YouTube
 - [YOLO v2（高速物体認識）](https://www.youtube.com/watch?v=VOC3huqHrss)
 - [Synthesizing Obama（音声から口パク生成）](https://www.youtube.com/watch?v=9Yq67CjDqvw)
 - [Google Pixel Buds Translate（ほんやくコンニャク）](https://www.youtube.com/watch?v=kWb1ysqtc4o)
 
+## 代表研究
+- アーキテクチャ
+  - [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+  - [VGG](https://arxiv.org/abs/1409.1556)
+  - [ResNet](https://arxiv.org/abs/1512.03385)
+  - [U-net](https://arxiv.org/abs/1505.04597)
+- GAN
+  - [GAN](https://arxiv.org/abs/1406.2661)
+  - [DCGAN](https://arxiv.org/abs/1511.06434)
+  - [LAPGAN](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf)
+  - [cGAN](https://arxiv.org/abs/1411.1784)
+  - [InfoGAN](https://arxiv.org/abs/1606.03657)
+  - [StackGAN](https://arxiv.org/abs/1612.03242)
+  - [WGAN](https://arxiv.org/abs/1701.07875)
+  - [BEGAN](https://arxiv.org/abs/1703.10717)
+  - [CycleGAN](https://arxiv.org/abs/1703.10593)
+  - [Improved Techniques for Training GANs](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)
+- VAE
+  - [VAE](https://arxiv.org/abs/1312.6114)
+- [PixcelCNN](Pixel Recurrent Neural Networks)
+- [WaveNet](https://arxiv.org/abs/1609.03499)
+- [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644)
+- 画像応用
+  - [pix2pix](https://arxiv.org/abs/1611.07004)
+  - [style transfer](Image style transfer using convolutional neural networks)
+  - [inpainting](https://arxiv.org/abs/1604.07379)
+  - [colorization](https://arxiv.org/abs/1603.08511)
+  - [restoration](https://groups.csail.mit.edu/graphics/demosaicnet/data/demosaic.pdf)
+  - [image captioning](http://proceedings.mlr.press/v37/xuc15.pdf)
+- 半教師あり学習
+  - [M2](http://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf)
+  - [Ladder Networks]()
+  - [VAT]()
+- 最適化
+  - [Adam](https://arxiv.org/abs/1412.6980)
+- メタ学習
+  - [Neural Turing Machine](https://arxiv.org/abs/1410.5401)
+  - [Memory networks](https://arxiv.org/abs/1410.3916)
+- 未分類
+  - [DRAW](https://arxiv.org/abs/1502.04623)
+
+## 論文収集
+- [Twitterで話題のarXiv論文](http://www.arxiv-sanity.com/toptwtr)
+
 ## まとめ
 - [GAN-Papers](https://github.com/LynnHo/GAN-Papers)
 - [tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
 
 ## 参考書
+- [Pattern Recognition and Machine Learning](https://www.amazon.co.jp/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 - [速習 強化学習 ―基礎理論とアルゴリズム―](https://www.amazon.co.jp/%E9%80%9F%E7%BF%92-%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92-%E2%80%95%E5%9F%BA%E7%A4%8E%E7%90%86%E8%AB%96%E3%81%A8%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E2%80%95-Csaba-Szepesvari/dp/4320124227)
+-
