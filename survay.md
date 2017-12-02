@@ -66,9 +66,15 @@
   - [Video Pixel Networks](https://arxiv.org/abs/1610.00527)
 - 半教師あり学習
   - [M2](http://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf)
+  - [CatGAN](https://arxiv.org/abs/1511.06390)
+  - [ALI](https://arxiv.org/abs/1605.09782)
+  - [SDGM, ADGM](https://arxiv.org/abs/1602.05473)
   - [Ladder Networks](https://arxiv.org/abs/1507.02672)
   - [VAT](https://arxiv.org/abs/1704.03976)
   - [GAN with feature matching](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)
+  - [GAN with complement generator](https://arxiv.org/abs/1705.09783)
+  - [Learning by Association](http://openaccess.thecvf.com/content_cvpr_2017/papers/Haeusser_Learning_by_Association_CVPR_2017_paper.pdf)
+  - [Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning](https://arxiv.org/abs/1606.04586)
 - one-shot学習
   - [Matching Networks](https://arxiv.org/abs/1606.04080)
   - [Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065)
