@@ -19,11 +19,26 @@
 
 ## 代表研究
 - アーキテクチャ
+  - [LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
   - [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
   - [VGG](https://arxiv.org/abs/1409.1556)
+  - [GoogLeNet](https://arxiv.org/abs/1409.4842)
   - [ResNet](https://arxiv.org/abs/1512.03385)
   - [U-net](https://arxiv.org/abs/1505.04597)
+  - [Highway Networks](https://arxiv.org/abs/1505.00387)
   - [CapsNet](https://arxiv.org/abs/1710.09829)
+- レイヤー
+  - [dropout](https://arxiv.org/abs/1207.0580)
+  - [Batch Normalization](https://arxiv.org/abs/1502.03167)
+  - [Global Average Pooling](https://arxiv.org/abs/1312.4400)
+- 活性化関数
+  - [ReLU](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.6419&rep=rep1&type=pdf)
+  - [Softplus](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.6419&rep=rep1&type=pdf)
+  - [Leaky ReLU](https://web.stanford.edu/~awni/papers/relu_hybrid_icml2013_final.pdf)
+  - [PReLU](https://arxiv.org/abs/1502.01852)
+  - [ELU](https://arxiv.org/abs/1511.07289)
+  - [SELU](https://arxiv.org/abs/1706.02515)
+  - [Swish](https://arxiv.org/abs/1710.05941)
 - GAN
   - [GAN](https://arxiv.org/abs/1406.2661)
   - [DCGAN](https://arxiv.org/abs/1511.06434)
@@ -35,11 +50,11 @@
   - [BEGAN](https://arxiv.org/abs/1703.10717)
   - [CycleGAN](https://arxiv.org/abs/1703.10593)
   - [Improved Techniques for Training GANs](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)
+  - [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644)
 - VAE
   - [VAE](https://arxiv.org/abs/1312.6114)
 - [PixcelCNN](https://arxiv.org/abs/1601.06759)
 - [WaveNet](https://arxiv.org/abs/1609.03499)
-- [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644)
 - 画像応用
   - [pix2pix](https://arxiv.org/abs/1611.07004)
   - [style transfer](https://pdfs.semanticscholar.org/7568/d13a82f7afa4be79f09c295940e48ec6db89.pdf)
@@ -51,13 +66,19 @@
   - [Video Pixel Networks](https://arxiv.org/abs/1610.00527)
 - 半教師あり学習
   - [M2](http://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf)
-  - [Ladder Networks]()
-  - [VAT]()
+  - [Ladder Networks](https://arxiv.org/abs/1507.02672)
+  - [VAT](https://arxiv.org/abs/1704.03976)
+  - [GAN with feature matching](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)
 - one-shot学習
   - [Matching Networks](https://arxiv.org/abs/1606.04080)
   - [Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065)
 - 最適化
+  - [RMSprop](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
+  - [Adagrad](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
+  - [Adadelta](http://arxiv.org/abs/1212.5701)
   - [Adam](https://arxiv.org/abs/1412.6980)
+  - [Adamax](http://arxiv.org/abs/1412.6980)
+  - [Nadam](http://www.cs.toronto.edu/~fritz/absps/momentum.pdf)
 - メタ学習
   - [Neural Turing Machine](https://arxiv.org/abs/1410.5401)
   - [Memory networks](https://arxiv.org/abs/1410.3916)
@@ -75,6 +96,14 @@
   - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - 未分類
 
+## データセット
+- [MNIST]
+- [CIFAR-10]
+- [CIFAR-100]
+- [fassionMNIST]
+- [ImageNet]
+- [Boston Housing]
+- [IMDB]
 
 ## 論文収集
 - [Twitterで話題のarXiv論文](http://www.arxiv-sanity.com/toptwtr)
