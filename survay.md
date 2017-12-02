@@ -49,7 +49,7 @@
   - [WGAN](https://arxiv.org/abs/1701.07875)
   - [BEGAN](https://arxiv.org/abs/1703.10717)
   - [CycleGAN](https://arxiv.org/abs/1703.10593)
-  - [Improved Techniques for Training GANs](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)
+  - ["Improved Techniques for Training GANs"](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)
   - [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644)
 - VAE
   - [VAE](https://arxiv.org/abs/1312.6114)
@@ -74,7 +74,7 @@
   - [GAN with feature matching](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)
   - [GAN with complement generator](https://arxiv.org/abs/1705.09783)
   - [Learning by Association](http://openaccess.thecvf.com/content_cvpr_2017/papers/Haeusser_Learning_by_Association_CVPR_2017_paper.pdf)
-  - [Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning](https://arxiv.org/abs/1606.04586)
+  - ["Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning"](https://arxiv.org/abs/1606.04586)
 - one-shot学習
   - [Matching Networks](https://arxiv.org/abs/1606.04080)
   - [Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065)
@@ -88,8 +88,8 @@
 - メタ学習
   - [Neural Turing Machine](https://arxiv.org/abs/1410.5401)
   - [Memory networks](https://arxiv.org/abs/1410.3916)
-  - [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474)
-  - [Hybrid computing using a neural network with dynamic external memory](https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz)
+  - ["Learning to learn by gradient descent by gradient descent"](https://arxiv.org/abs/1606.04474)
+  - ["Hybrid computing using a neural network with dynamic external memory"](https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz)
 - ゲーム
   - [Atari](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
   - [AlphaGo](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
@@ -98,8 +98,8 @@
 - 自然言語処理
   - [seq2seq](https://arxiv.org/abs/1409.3215)
   - [DRAW](https://arxiv.org/abs/1502.04623)
-  - [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
-  - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+  - ["Neural Machine Translation by Jointly Learning to Align and Translate"](https://arxiv.org/abs/1409.0473)
+  - ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762)
 - 未分類
 
 ## データセット
