@@ -94,6 +94,7 @@
   - [Atari](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
   - [AlphaGo](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
   - [AlphaGo zero](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)
+  - [AlphaZero](https://arxiv.org/abs/1712.01815)
   - [StarCraft II](https://arxiv.org/abs/1708.04782)
 - 自然言語処理
   - [seq2seq](https://arxiv.org/abs/1409.3215)
