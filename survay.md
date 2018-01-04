@@ -121,6 +121,13 @@
 - [NIPS 2017 Notes](https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf)
 
 ## 参考書
-- [Pattern Recognition and Machine Learning](https://www.amazon.co.jp/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
-- [はじめてのパターン認識](https://www.amazon.co.jp/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98-%E5%B9%B3%E4%BA%95-%E6%9C%89%E4%B8%89/dp/4627849710)
-- [速習 強化学習 ―基礎理論とアルゴリズム―](https://www.amazon.co.jp/%E9%80%9F%E7%BF%92-%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92-%E2%80%95%E5%9F%BA%E7%A4%8E%E7%90%86%E8%AB%96%E3%81%A8%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E2%80%95-Csaba-Szepesvari/dp/4320124227)
+- パターン認識
+  - [Pattern Recognition and Machine Learning](https://www.amazon.co.jp/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+  - [はじめてのパターン認識](https://www.amazon.co.jp/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98-%E5%B9%B3%E4%BA%95-%E6%9C%89%E4%B8%89/dp/4627849710)
+- 深層学習
+  - [深層学習](https://www.amazon.co.jp/dp/B018K6C99A/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+  - [Deep Learning (Goodfellowの本)](http://www.deeplearningbook.org/)
+  - [Deep Learning (LeCunのNatureレビュー)](https://www.nature.com/articles/nature14539)
+- 強化学習
+  - [速習 強化学習 ―基礎理論とアルゴリズム―](https://www.amazon.co.jp/%E9%80%9F%E7%BF%92-%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92-%E2%80%95%E5%9F%BA%E7%A4%8E%E7%90%86%E8%AB%96%E3%81%A8%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E2%80%95-Csaba-Szepesvari/dp/4320124227)
+  - [Reinforcement Learning: An Introduction](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
